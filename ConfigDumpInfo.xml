@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.12">
 	<ConfigVersions>
-		<Metadata name="Catalog.Kir_Номенклатура" id="973c8bcd-873e-4f01-ad97-418529f2b399" configVersion="92c3159e930bf94fb7a0f22797d8675300000000">
+		<Metadata name="Catalog.Kir_Номенклатура" id="973c8bcd-873e-4f01-ad97-418529f2b399" configVersion="0c414ba05d14684f8efd29daa6f1158900000000">
 			<Metadata name="Catalog.Kir_Номенклатура.Attribute.ПервыйРеквизит" id="8ab2f5f3-b24c-4580-ae45-51c5703038fc"/>
 		</Metadata>
-		<Metadata name="Catalog.Kir_Номенклатура.ObjectModule" id="973c8bcd-873e-4f01-ad97-418529f2b399.0" configVersion="5069a853d8e09147b45fc237423d059b00000000"/>
+		<Metadata name="Catalog.Kir_Номенклатура.ObjectModule" id="973c8bcd-873e-4f01-ad97-418529f2b399.0" configVersion="889fa2a15a187c40a926f58ae4d7979c00000000"/>
 		<Metadata name="CommonModule.kir_общий" id="98b2cab5-96a8-4313-8dc2-aeeefe94ad16" configVersion="3db4d9d2c9480648ad28be87b0c4e5da00000000"/>
 		<Metadata name="CommonModule.kir_общий.Module" id="98b2cab5-96a8-4313-8dc2-aeeefe94ad16.0" configVersion="5376ca97a016674ba488ae8b88160e8e00000000"/>
 		<Metadata name="Configuration.Конфигурация" id="3ba1a1ef-bad4-4b99-b53e-e545c8c254f4" configVersion="619656788343cf46b72578453739ccbd00000000"/>
